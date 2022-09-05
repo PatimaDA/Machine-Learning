@@ -1,6 +1,11 @@
 ## Machine Learning
 
-<b/>"Machine Learning" <br /><br /> Taught by Prof. Andrew Ng <br /><br /> Offered by Stanford University on Coursera. <br /><br /> Lectures, Quizzes & Projects.
+Taught by Prof. Andrew Ng
+
+Offered by Stanford University on Coursera. 
+
+Lectures, Quizzes & Projects.
+
 
 
 Week Number | Lectures | Quizzes | Programming Assignment
@@ -16,8 +21,6 @@ Week Number | Lectures | Quizzes | Programming Assignment
 9 | [Slide 01](https://github.com/PatimaDA/Machine-Learning/blob/master/Lectures/Lecture15.pdf) * [Slide 02](https://github.com/PatimaDA/Machine-Learning/blob/master/Lectures/Lecture16.pdf)| [1](https://github.com/PatimaDA/Machine-Learning/blob/master/Quizzes/15.Anomaly%20Detection.pdf.pdf) * [2](https://github.com/PatimaDA/Machine-Learning/blob/master/Quizzes/16.Recommender%20Systems.pdf) | [ex8](https://github.com/PatimaDA/Machine-Learning/tree/master/Programming-Assignments/ex8)
 10 | [Slide 01](https://github.com/PatimaDA/Machine-Learning/blob/master/Lectures/Lecture17.pdf) | [1](https://github.com/PatimaDA/Machine-Learning/blob/master/Quizzes/17.Large%20Scale%20Machine%20Learning.pdf) | -
 11 | [Slide 01](https://github.com/PatimaDA/Machine-Learning/blob/master/Lectures/Lecture18.pdf) | [1](https://github.com/PatimaDA/Machine-Learning/blob/master/Quizzes/18.Application:%20Photo%20OCR.pdf) | -
-
-
 
 
 
